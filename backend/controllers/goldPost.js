@@ -11,8 +11,8 @@ const mongoose = require('mongoose');
 const Apartmentmodel = require('../models/Apartmentmodel')
 
 const s3 = new aws.S3({
-    accessKeyId: 'AKIAUTVZCIJBJRY6SLNJ',
-    secretAccessKey: 'SSBYrpmmdxAKQlSN5rIa/E++EsNp0WzwVFGgT7vQ',
+    accessKeyId: 'your key',
+    secretAccessKey: 'your key',
     region: 'us-east-1',
   });
   

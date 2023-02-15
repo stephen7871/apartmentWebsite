@@ -24,7 +24,7 @@ const AnyReactComponent = props => {
  const renderMarkers = (map, maps) => {
     {silverPosts?.map((post) => {
       Geocode.setLanguage("en");
-      Geocode.setApiKey("AIzaSyBBoDTa2K0ql0d3ssnlMEYXdBvQLI6_LqA");
+      Geocode.setApiKey("your key");
       Geocode.fromAddress(post.address).then(
         (response) => {
           const { lat, lng } = response.results[0].geometry.location;
@@ -45,7 +45,7 @@ const AnyReactComponent = props => {
         const renderMyMarkers = (map, maps) => {
           {silverPosts?.map((post) => {
             Geocode.setLanguage("en");
-            Geocode.setApiKey("AIzaSyBBoDTa2K0ql0d3ssnlMEYXdBvQLI6_LqA");
+            Geocode.setApiKey("your key");
             Geocode.fromAddress(post.address).then(
               (response) => {
                 const { lat, lng } = response.results[0].geometry.location;
@@ -66,7 +66,7 @@ const AnyReactComponent = props => {
  return (
    <div style={{ height: '80vh', width: '100%' }}>
     <GoogleMapReact
-      bootstrapURLKeys={{ key: 'AIzaSyBBoDTa2K0ql0d3ssnlMEYXdBvQLI6_LqA' }}
+      bootstrapURLKeys={{ key: 'your key' }}
       defaultCenter={{ lat: 41.80593409999999, lng: -72.25367539999999 }}
       defaultZoom={12}
       yesIWantToUseGoogleMapApiInternals

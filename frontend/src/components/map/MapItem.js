@@ -17,7 +17,7 @@ const MapItem = ({ post,defaultCenter, setCurrentId, user, setUser,proplist }) =
   useEffect(() => {
 
   Geocode.setLanguage("en");
-  Geocode.setApiKey("AIzaSyBBoDTa2K0ql0d3ssnlMEYXdBvQLI6_LqA");
+  Geocode.setApiKey("your key");
   Geocode.fromAddress(post.address).then(
     (response) => {
       const { lat, lng } = response.results[0].geometry.location;
