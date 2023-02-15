@@ -45,10 +45,42 @@ Start the Client
   npm start
 ```
 Start the server
+### filter apartments by location,price,bedrooms, college,Looking for roomate,Looking for place to live, House or condo or apartment
+! [](Xnip2023-02-15_14-14-21.jpg)
+
+### sign in 
+! [](Xnip2023-02-15_14-02-47.jpg)
+### sign up
+! [](Xnip2023-02-15_14-03-01.jpg)
+
+### Add an apartment, Sublisting, or looking for a roomate
+ ![](Xnip2023-02-15_14-02-28.jpg)
 
 
-### Search Users
- ![](Xnip2023-02-15_13-48-21.jpg)
+### crop image for apartments 
+![](Xnip2023-02-15_14-09-32.jpg)
+
+ ### promote post to the top
+![](Xnip2023-02-15_14-15-13.jpg)
+
+### Put in card information
+![](Xnip2023-02-15_14-16-37.jpg)
+
+### succsesfull card payment with stripe
+![](Xnip2023-02-15_14-17-00.jpg)
+
+### delete or promote post
+![](Xnip2023-02-15_14-14-57.jpg)
+
+
+
+
+
+
+
+
+
+
 
 
 
