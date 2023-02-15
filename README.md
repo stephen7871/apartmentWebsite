@@ -46,12 +46,12 @@ Start the Client
 ```
 Start the server
 ### filter apartments by location,price,bedrooms, college,Looking for roomate,Looking for place to live, House or condo or apartment
-! [](Xnip2023-02-15_14-14-21.jpg)
+![](Xnip2023-02-15_14-14-21.jpg)
 
 ### sign in 
-! [](Xnip2023-02-15_14-02-47.jpg)
+![](Xnip2023-02-15_14-02-47.jpg)
 ### sign up
-! [](Xnip2023-02-15_14-03-01.jpg)
+![](Xnip2023-02-15_14-03-01.jpg)
 
 ### Add an apartment, Sublisting, or looking for a roomate
  ![](Xnip2023-02-15_14-02-28.jpg)
