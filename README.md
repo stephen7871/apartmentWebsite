@@ -44,6 +44,11 @@ Start the Client
   cd frontend
   npm start
 ```
+Start the server
+
+```bash
+  ![Alt text](Xnip2023-02-15_13-48-21.jpg "Optional Title")
+```
 
 
 
