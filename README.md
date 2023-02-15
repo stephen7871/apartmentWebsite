@@ -46,9 +46,9 @@ Start the Client
 ```
 Start the server
 
-```bash
-  ![Alt text](Xnip2023-02-15_13-48-21.jpg "Optional Title")
-```
+
+### Search Users
+ ![](Xnip2023-02-15_13-48-21.jpg)
 
 
 
