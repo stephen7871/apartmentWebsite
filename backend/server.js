@@ -10,7 +10,7 @@ const aparmentPostRoute = require("./routes/aparmentPostRoute");
 const { notFound, errorHandler } = require("./middleware/errorMiddleware");
 const path = require("path");
 require("dotenv").config()
-const stripe = require("stripe")("sk_test_51M31CkLqdUUllD3Zms6W2abzsC7epVsyzhEgsXSTQyy6KbN4K4IvbtRvuA1esq3FajBL3wMwgXqoVytz47VoFE9j00SrbnvNKf")
+const stripe = require("stripe")("your stripekey")
 const bodyParser = require("body-parser")
 const cors = require("cors")
 
